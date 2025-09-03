@@ -87,7 +87,7 @@ image: https://prod-eurasian-res.popmart.com/default/20240708_103610_362376_____
 {
 link: https://www.popmart.com/jp/products/4161
 name: THE MONSTERS FALL IN WILD ぬいぐるみ - 1セット
-giá: 9900
+giá: 0
 sku id: 6248
 id sp: 4161
 quantity: 0
