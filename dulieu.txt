@@ -67,3 +67,20 @@ id sp: 3884
 quantity: 0
 image: https://prod-eurasian-res.popmart.com/default/20231026_101601_612582__1200x1200.jpg
 }
+{
+link: https://www.popmart.com/jp/products/3891
+Sản phẩm : 1 
+name: THE MONSTERS Have a Seat ぬいぐるみ シリーズ - ピース
+giá: 2255
+sku id: 5801
+id sp: 3891
+quantity: 0
+image: https://prod-eurasian-res.popmart.com/default/20240708_103619_801633_________1200x1200.jpg
+Sản phẩm: 2
+name: THE MONSTERS Have a Seat ぬいぐるみ シリーズ - アソートボックス
+giá: 13530
+sku id: 5800
+id sp: 3891
+quantity: 0
+image: https://prod-eurasian-res.popmart.com/default/20240708_103610_362376_________1200x1200.jpg
+}
