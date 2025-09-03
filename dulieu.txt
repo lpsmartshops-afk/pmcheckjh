@@ -1,1 +1,18 @@
 
+{
+link: https://www.popmart.com/jp/products/6935
+Sản phẩm : 1 
+name: THE MONSTER PIN FOR LOVE シリーズぬいぐるみペンダント(A-M) - ピース
+giá: 1815
+sku id: 10606
+id sp: 6935
+quantity: 0
+image: https://prod-eurasian-res.popmart.com/default/20250825_150908_425450____6-35_____1200x1200.jpg
+Sản phẩm: 2
+name: THE MONSTER PIN FOR LOVE シリーズぬいぐるみペンダント(A-M) - アソートボックス
+giá: 25410
+sku id: 10607
+id sp: 6935
+quantity: 0
+image: https://prod-eurasian-res.popmart.com/default/20250825_150856_244580____7-33_____1200x1200.jpg
+}
