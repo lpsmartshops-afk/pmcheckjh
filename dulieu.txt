@@ -50,3 +50,20 @@ id sp: 5737
 quantity: 0
 image: https://prod-eurasian-res.popmart.com/default/20250422_091852_899579____9_____1200x1200.jpg
 }
+{
+link: https://www.popmart.com/jp/products/3884
+Sản phẩm : 1 
+name: THE MONSTERS Exciting Macaron ぬいぐるみシリーズ - ピース
+giá: 2255
+sku id: 5788
+id sp: 3884
+quantity: 0
+image: https://prod-eurasian-res.popmart.com/default/20240507_172348_452617____6_____1200x1200.jpg
+Sản phẩm: 2
+name: THE MONSTERS Exciting Macaron ぬいぐるみシリーズ - アソートボックス
+giá: 13530
+sku id: 5789
+id sp: 3884
+quantity: 0
+image: https://prod-eurasian-res.popmart.com/default/20231026_101601_612582__1200x1200.jpg
+}
